@@ -1,7 +1,7 @@
 # COMTEC ART 24/25
 
 ## Overview
-**COMTEC ART 24/25** is a collaborative game development project created as part of a university program in Spain. The project brought together a diverse, international team of ten members — five developers and five designers — from across Europe and Asia, including Croatia, Korea, Spain, and Montenegro.
+**COMTEC ART 24/25** is a collaborative game development project created as part of a university program in Spain. The project brought together a diverse, international team of ten members, five developers and five designers, from across Europe and Asia, including Croatia, Korea, Spain, and Montenegro.
 
 The result was a successful and well-received game, earning the highest grade in the course and gaining attention through Twitch streams during its presentation.
 
@@ -44,3 +44,4 @@ For gameplay footage, documentation, and build files, refer to the shared Google
 ## Acknowledgment
 This project represents a collective effort and shared vision between all contributors.  
 Special thanks to my teammates from Croatia, Korea, Spain, and beyond for their dedication, creativity, and teamwork that made this project possible.
+
